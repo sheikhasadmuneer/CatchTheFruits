@@ -12,6 +12,9 @@ High Score,
 Cool Graphics,
 Hope you all will like it .
 
+# Video 
+[Demo](https://youtu.be/DoqKTXzx8ck)
+
 # Screenshots
  ![](https://s16.postimg.org/9zajnd105/image.png)
 ![](https://s16.postimg.org/adbvmyl3p/image.png)
